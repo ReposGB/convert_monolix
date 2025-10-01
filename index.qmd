@@ -8,7 +8,7 @@ format: html
 editor: visual
 ---
 
-<img src="Convert_Monolix_Logo.png" style="width:150px; margin-top:20px;">
+<img src="Convert_Monolix_Logo.png" style="width:150px; margin-top:20px;"/>
 
 **ConvertMonolix** est un programme permettant de convertir un fichier Excel en fichier CSV compatible **Monolix**.
 
@@ -18,10 +18,10 @@ editor: visual
 
 Vous pouvez télécharger **ConvertMonolix** à partir de ces liens:
 
-| Architecture  | Lien                                                       |
-|---------------|------------------------------------------------------------|
-| Intel         | [ConvertMonolix(ZIP) ](Apps/Intel_x86_64/ConvertMonolix.zip) |
-| Apple Silicon | [ConvertMonolix(DMG) ](Apps/Arm64/ConvertMonolix.dmg) |
+| Architecture  | Lien                                                        |
+|-----------------|-------------------------------------------------------|
+| Intel         | [ConvertMonolix(DMG)](Apps/Intel_x86_64/ConvertMonolix.dmg) |
+| Apple Silicon | [ConvertMonolix(DMG)](Apps/Arm64/ConvertMonolix.dmg)        |
 
 ------------------------------------------------------------------------
 
