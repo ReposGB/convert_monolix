@@ -11,12 +11,12 @@ Monolix est développé sur MacOS.
 
 ## Télécharger
 
-Vous pouvez télécharger Monolix sur ces liens:
+Vous pouvez télécharger Convert Monolix à partir de ces liens:
 
 | Architecture  | Lien                                                       |
 |---------------|------------------------------------------------------------|
-| Intel         | [ConvertMonolix.app](Apps/Intel_x86_64/ConvertMonolix.app) |
-| Apple Silicon | [ConvertMonolix.app](Apps/Arm64/ConvertMonolix.app) |
+| Intel         | [ConvertMonolix.app Zippé](Apps/Intel_x86_64/ConvertMonolix.zip) |
+| Apple Silicon | [ConvertMonolix.app Zippé](Apps/Arm64/ConvertMonolix.zip) |
 
 ------------------------------------------------------------------------
 
