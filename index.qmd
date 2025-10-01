@@ -1,0 +1,23 @@
+---
+title: "Convert Monolix"
+author: "Ghislain BIDAUT - Xavier Muracciole"
+format: html
+editor: visual
+---
+
+Convert Monolix vous permers de convertir un fichier Excel en fichier compatible Monolix.
+
+Monolix est développé sur MacOS.
+
+## Télécharger
+
+Vous pouvez télécharger Monolix sur ces liens:
+
+| Architecture  | Lien                                                       |
+|---------------|------------------------------------------------------------|
+| Intel         | [ConvertMonolix.app](Apps/Intel_x86_64/ConvertMonolix.app) |
+| Apple Silicon | [ConvertMonolix.app](Apps/Arm64/ConvertMonolix.app) |
+
+------------------------------------------------------------------------
+
+\(c\) Ghislain BIDAUT 2025
