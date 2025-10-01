@@ -1,18 +1,22 @@
 ---
 title: "Convert Monolix"
 author: "Ghislain BIDAUT - Xavier Muracciole"
+navbar:
+  logo: Convert_Monolix_Logo.png
 date-modified: last-modified
 format: html
 editor: visual
 ---
 
-Convert Monolix vous permers de convertir un fichier Excel en fichier compatible Monolix.
+<img src="Convert_Monolix_Logo.png" style="width:150px; margin-top:20px;">
 
-Monolix est développé sur MacOS.
+**ConvertMonolix** est un programme permettant de convertir un fichier Excel en fichier CSV compatible **Monolix**.
+
+**ConvertMonolix** est compatible **MacOS**.
 
 ## Télécharger
 
-Vous pouvez télécharger Convert Monolix à partir de ces liens:
+Vous pouvez télécharger **ConvertMonolix** à partir de ces liens:
 
 | Architecture  | Lien                                                       |
 |---------------|------------------------------------------------------------|
@@ -21,4 +25,4 @@ Vous pouvez télécharger Convert Monolix à partir de ces liens:
 
 ------------------------------------------------------------------------
 
-\(c\) Ghislain BIDAUT 2025
+\(c\) Ghislain BIDAUT 2025 All Rights Reserved
