@@ -1,6 +1,6 @@
 ---
-title: "Convert Monolix"
-author: "Ghislain BIDAUT - Xavier Muracciole"
+title: "ConvertMonolix"
+author: "Ghislain BIDAUT - Xavier MURRACIOLE"
 navbar:
   logo: Convert_Monolix_Logo.png
 date-modified: last-modified
@@ -19,10 +19,11 @@ editor: visual
 Vous pouvez télécharger **ConvertMonolix** à partir de ces liens:
 
 | Architecture  | Lien                                                        |
-|-----------------|-------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | Intel         | [ConvertMonolix(DMG)](Apps/Intel_x86_64/ConvertMonolix.dmg) |
 | Apple Silicon | [ConvertMonolix(DMG)](Apps/Arm64/ConvertMonolix.dmg)        |
 
 ------------------------------------------------------------------------
+
 
 \(c\) Ghislain BIDAUT 2025 All Rights Reserved
