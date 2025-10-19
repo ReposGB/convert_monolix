@@ -20,8 +20,9 @@ Vous pouvez télécharger **ConvertMonolix** à partir de ces liens:
 
 | Architecture  | Lien                                                        |
 |------------------|------------------------------------------------------|
-| Intel         | [ConvertMonolix(DMG)](Apps/Intel_x86_64/ConvertMonolix.dmg) |
-| Apple Silicon | [ConvertMonolix(DMG)](Apps/Arm64/ConvertMonolix.dmg)        |
+| Mac Intel         | [ConvertMonolix(DMG)](Apps/Intel_x86_64/ConvertMonolix.dmg) |
+| Mac Apple Silicon | [ConvertMonolix(DMG)](Apps/Arm64/ConvertMonolix.dmg)        |
+| Windows 64         | [ConvertMonolix(Windows Installer)](Apps/Windows/ConvertMonolix_Installer.exe) |
 
 ------------------------------------------------------------------------
 
