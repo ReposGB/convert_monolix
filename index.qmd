@@ -12,7 +12,7 @@ editor: visual
 
 **ConvertMonolix** est un programme permettant de convertir un fichier Excel en fichier CSV compatible **Monolix**.
 
-**ConvertMonolix** est compatible **MacOS**.
+**ConvertMonolix** est compatible **MacOS** et **Windows**.
 
 ## Télécharger
 
